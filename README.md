@@ -13,6 +13,7 @@
 -  C
 -  Java 
 -  Python.
+-  MySQL.
 
 ## 📫 How to find me?
 - [LinkedIn Profile](https://www.linkedin.com/in/guilherme-s-484b0311b/)

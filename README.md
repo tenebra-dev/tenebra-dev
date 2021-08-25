@@ -12,7 +12,7 @@
 -  JavaScript
 -  C
 -  Java 
--  Python.
+-  Python
 -  MySQL.
 
 ## 📫 How to find me?

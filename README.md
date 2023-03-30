@@ -22,10 +22,8 @@ Beginner Level
 
 
 ## 🌱 I’m currently studying these technologies:
-I’m learning some new stuff right now to help me choose a area to focus on the next years.
--  Solidity
--  C++/C#
--  DOTNET
+I’m trying to focus on some technologies rn:
+-  Java/JavaScript
 -  React
 -  Node.js
 

@@ -5,7 +5,7 @@
 
 
 
-## Languages and Technologies: 
+## Languages: 
 
 Beginner Level
 (Note: I should say that this is probably where i find myself in Development. Understanding about 10-20% of each one of these items. I should say that understanding 10-20% already helped me a lot get a better understanding about the market that im getting in, the processes, procedures, things are starting to seem easier to grasp, i see more patterns now, i feel a little more excited cuz im starting to feel more like a enginner using tools where are better needed, instead of being the language worshipper that i used to think that we should all become at some point of our careers, maybe for not understanding the purposes of a programming language back then.)

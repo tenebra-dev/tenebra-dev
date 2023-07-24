@@ -22,10 +22,11 @@ Note: I should say that I nderstand about 10-20% of each one of these languages,
 
 
 ## 🌱 I’m currently studying these languages and technologies:
-I’m trying to focus on some technologies rn:
--  Java/JavaScript
+I’m trying to focus on some technologies:
+-  JavaScript
 -  React/React Native
 -  Node.js
+-  C/C++
 
 
 ## 📫 How to find me?

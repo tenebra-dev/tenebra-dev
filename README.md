@@ -10,7 +10,7 @@
 
 ## Languages: 
 
-Note: I should say that I nderstand about 10-20% of each one of these languages, which already helped me a lot get a better understanding about the market that im getting in, the processes, procedures, architectures, things are starting to seem easier to grasp, i see more patterns now, i feel more excited now since i could start making my own projects (im starting to feel like a enginner using tools where are better needed, instead of being the language worshipper that i used to think that we should all become at some point of our careers, maybe for not understanding the purposes of a programming language back then).
+Note: I should say that I understand 20-30% of each one of these languages, which already helped me a lot get a better understanding about the market that im getting in, the processes, procedures, architectures, things are starting to seem easier to grasp, i see more patterns now, i feel more excited now since i could start making my own projects (im really starting to feel like a enginner using tools where are better needed, instead of being the language worshipper that i used to think that we should all become at some point of our careers, maybe for not understanding the purposes of a programming language back then).
 
 -  HTML/CSS
 -  JavaScript
@@ -23,7 +23,7 @@ Note: I should say that I nderstand about 10-20% of each one of these languages,
 
 ## 🌱 I’m currently studying these languages and technologies:
 I’m trying to focus on some technologies:
--  JavaScript
+-  HTML, XML, CSS, JavaScript
 -  React/React Native
 -  Node.js
 -  C/C++
@@ -34,4 +34,4 @@ I’m trying to focus on some technologies:
 
 ## 💻 Projects
 
-- [dev-finance-marathon](https://github.com/guisoaresdev/devFinance-marathon)
+- [dev-finance](https://github.com/guisoaresdev/devFinance-marathon)

@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Soares</h1>
 <h3 align="center">A Software Engineering Student from Brazil</h3>
 
+- :man_student: Im currently studying Software Engineering at the [Federal University of Mato Grosso do Sul](https://www.ufms.br/) in Brazil.
 
 - 🌱 I’m currently learning **React and NestJS**
 

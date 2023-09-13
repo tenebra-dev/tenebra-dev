@@ -7,11 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-
-<p>That's how my friends portrays me </p>
-
-![giphy](https://github.com/guisoaresdev/guisoaresdev/assets/64067665/b4328dea-7289-4e3d-a8f3-c48b4a83e761)
-
 ## Work Experience:
 6 Months Internship in Fullstack Web/Mobile Development using React/NodeJS at [Inside The Box](https://www.linkedin.com/company/insidevarejo/)
 

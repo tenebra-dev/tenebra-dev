@@ -10,6 +10,11 @@
 ## Work Experience:
 6 Months Internship in Fullstack Web/Mobile Development using React/NodeJS at [Inside The Box](https://www.linkedin.com/company/insidevarejo/)
 
+<h3 align="left">Projects:</h3>
+
+- [Eternal Echoes](https://github.com/guisoaresdev/EternalEchoes/)
+- [DevFinance](https://github.com/guisoaresdev/devFinance-marathon/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/soaresguidev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soaresguidev/" height="30" width="40" /></a>

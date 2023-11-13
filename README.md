@@ -13,7 +13,9 @@
 <h3 align="left">Projects:</h3>
 
 - [Eternal Echoes](https://github.com/guisoaresdev/EternalEchoes/)
+- [Payment Service](https://github.com/guisoaresdev/PaymentService)
 - [DevFinance](https://github.com/guisoaresdev/devFinance-marathon/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

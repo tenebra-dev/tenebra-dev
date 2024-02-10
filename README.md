@@ -3,18 +3,17 @@
 
 - :man_student: Im currently studying Software Engineering at the [Federal University of Mato Grosso do Sul](https://www.ufms.br/) in Brazil.
 
-- 🌱 I’m currently learning **React and NestJS**
+- 🌛 My [Neovim](https://github.com/guisoaresdev/almighty-nvim) Config
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
 
 ## Work Experience:
 6 Months Internship in Fullstack Web/Mobile Development using React/NodeJS at [Inside The Box](https://www.linkedin.com/company/insidevarejo/)
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">🚀 Projects:</h3>
 
-- [Eternal Echoes](https://github.com/guisoaresdev/EternalEchoes/)
-- [Payment Service](https://github.com/guisoaresdev/PaymentService)
 - [DevFinance](https://github.com/guisoaresdev/devFinance-marathon/)
+- [Payment Service](https://github.com/guisoaresdev/PaymentService)
+- [Eternal Echoes](https://github.com/guisoaresdev/EternalEchoes/)
 
 
 <h3 align="left">Connect with me:</h3>

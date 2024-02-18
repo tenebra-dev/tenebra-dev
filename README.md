@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Soares</h1>
 <h3 align="center">A Software Engineering Student from Brazil</h3>
 
-- :man_student: Im currently studying Software Engineering at the [Federal University of Mato Grosso do Sul](https://www.ufms.br/) in Brazil.
+- :man_student: Im currently on my last year of Software Engineering at the [Federal University of Mato Grosso do Sul](https://www.ufms.br/) in Brazil.
 
 - 🌛 My [Neovim](https://github.com/guisoaresdev/almighty-nvim) Config
 

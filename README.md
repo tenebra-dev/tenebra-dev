@@ -5,6 +5,7 @@
 
 - 🌛 My [Neovim](https://github.com/guisoaresdev/almighty-nvim) Config
 
+- 23 Y.O.
 
 ## Work Experience:
 6 Months Internship in Fullstack Web/Mobile Development using React/NodeJS at [Inside The Box](https://www.linkedin.com/company/insidevarejo/)

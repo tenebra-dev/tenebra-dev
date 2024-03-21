@@ -7,9 +7,6 @@
 
 - 23 Y.O.
 
-## Work Experience:
-6 Months Internship in Fullstack Web/Mobile Development using React/NodeJS at [Inside The Box](https://www.linkedin.com/company/insidevarejo/)
-
 <h3 align="left">🚀 Projects:</h3>
 
 - [DevFinance](https://github.com/guisoaresdev/devFinance-marathon/)

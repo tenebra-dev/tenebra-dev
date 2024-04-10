@@ -2,11 +2,11 @@
 <p align="center"><a href="https://www.linkedin.com/in/soaresguidev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 <img src="https://myreadme.vercel.app/api/embed/guisoaresdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-## 🌛 My Neovim Config
+<h3 align="left">🌛 My Neovim Config:</h3>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guisoaresdev&repo=LazySoares)](https://github.com/guisoaresdev/LazySoares)
 
-<h3 align="left">🚀 Projects:</h3>
+<h3 align="left">🚀 Personal Projects:</h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guisoaresdev&repo=devFinance)](https://github.com/guisoaresdev/devFinance-marathon)
 

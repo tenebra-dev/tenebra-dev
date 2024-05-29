@@ -10,9 +10,5 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guisoaresdev&repo=devFinance)](https://github.com/guisoaresdev/devFinance-marathon)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guisoaresdev&repo=EternalEchoes)](https://github.com/guisoaresdev/EternalEchoes/)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guisoaresdev&repo=backend-EternalEchoes)](https://github.com/guisoaresdev/backend-EternalEchoes/)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guisoaresdev&repo=paymentService)](https://github.com/guisoaresdev/paymentService/)
 

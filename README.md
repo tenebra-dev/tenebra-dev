@@ -1,4 +1,4 @@
-A Full Stack Software Engineer from Brazil.
+A Full Stack Software Engineer from Brazil
 
 Love React | NodeJS | Express | .NET | PostgreSQL | MongoDB
 

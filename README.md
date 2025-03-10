@@ -1,6 +1,6 @@
 A Full Stack Software Engineer
 
-| React, Node.js, NestJS, .NET | MongoDB, PostgreSQL, Redis | Docker, Kubernetes, Azure DevOps
+| React, Node.js, NestJS, .NET | MongoDB, PostgreSQL, Redis | Docker, AWS, Azure DevOps
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guisoaresdev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 

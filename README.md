@@ -6,3 +6,4 @@ A Full Stack Software Engineer
 
 ##
 - ✅ Bachelor's Degree in Software Engineering from [UFMS](https://www.ufms.br/)
+- 📕 Currently Learning: Three.js, backtrack, pandas.

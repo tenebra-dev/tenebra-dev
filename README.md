@@ -1,6 +1,6 @@
-A Full Stack Software Engineer
+Node.js Backend Engineer
 
-| React, Node.js, NestJS, PHP Laravel, .NET | MongoDB, PostgreSQL, Redis | Docker, AWS, Azure DevOps
+| Node.js, Express.js, NestJS | PostgreSQL, MySQL, MongoDB | Jest, Puppeteer | Cloud (Azure/AWS), Docker |
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tenebra-dev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 

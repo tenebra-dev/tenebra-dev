@@ -1,6 +1,6 @@
 JavaScript/TypeScript Full Stack Software Engineer
 
-| Node.js, Express.js, NestJS | PostgreSQL, MySQL, MongoDB | Jest, Puppeteer | Cloud (Azure/AWS), Docker |
+| React, React Native, Vue 3, Next.js | Node.js, Express.js, NestJS | PostgreSQL, MySQL, MongoDB | Cloud (Azure/AWS), Docker
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tenebra-dev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 

@@ -1,4 +1,4 @@
-Node.js Backend Engineer
+JavaScript/TypeScript Full Stack Software Engineer
 
 | Node.js, Express.js, NestJS | PostgreSQL, MySQL, MongoDB | Jest, Puppeteer | Cloud (Azure/AWS), Docker |
 
